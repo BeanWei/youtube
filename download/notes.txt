@@ -1,0 +1,1 @@
+#封面获取 https://i.ytimg.com/vi/(这里改成视频番号)/maxresdefault.jpg
